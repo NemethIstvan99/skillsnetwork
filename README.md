@@ -1,4 +1,4 @@
-### This is the github project for the following Coursera specialization:
+### This is the github project for the following CCCCCoursera specialization:
 
 Advanced Data Science with IBM
 
